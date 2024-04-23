@@ -17,6 +17,15 @@ public class Peru {
 		System.out.print("this is class is peru");
 		System.out.print("this is class is peru");
 		System.out.print("this is class is peru");
+System.out.print("this is class is peru");
+		
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
+		System.out.print("this is class is peru");
 		
 	}
 
